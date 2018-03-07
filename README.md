@@ -1,1 +1,1 @@
-# jjdd3-materialy-refaktoring-java
+This repository contains issues and clues about refactoring and clean code.
